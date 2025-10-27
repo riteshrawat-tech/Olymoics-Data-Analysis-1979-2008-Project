@@ -86,7 +86,9 @@ Several charts were used to represent data visually:
 2.	Top 10 Countries by Gold Medals — Highlighting leadership in first-place finishes.
 3.	Top 10 Sports by Medal Count — Horizontal bar chart emphasizing Athletics and Swimming as the most competitive sports.
 4.	Medals Over the Years — Line chart showing the steady increase in total medals from 1976–2008.
+   
 Observation:
+
 Visuals clearly demonstrate consistent dominance by a few countries and the growing size of the Olympics.
 Gender Distribution of Medals and Events
 This section compared male and female athlete participation and medal achievements.
