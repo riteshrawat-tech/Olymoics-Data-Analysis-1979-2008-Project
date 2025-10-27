@@ -73,29 +73,53 @@ Gold Medals by Country
 A separate analysis for Gold Medals identified the countries that secured the highest number of top finishes.
 Observation:
 •	The United States again leads with the most gold medals.
+
 •	China shows a rapid rise in gold medals, particularly after 2000.
+
 •	Countries like Australia and Great Britain also performed well in later years.
+
  Medals Over the Years
+ 
 A year-wise analysis of total medals revealed the overall trend of Olympic growth.
+
 Observation:
+
 •	The number of medals awarded generally increased with each Olympic year.
+
 •	This reflects more events and broader participation.
+
 •	Dips in some years correspond to smaller delegations or limited event categories.
+
 The trend graph shows continuous expansion of the Olympic Games, representing a global increase in sports participation and inclusivity.
+
  Top Athletes by Medals
+ 
 Individual athletes were ranked based on their total medal counts.
+
 Observation:
+
 •	Michael Phelps (USA, Swimming) holds the record for the most medals, highlighting his dominance.
+
 •	Other top athletes come from Gymnastics, Athletics, and Swimming, sports that typically offer multiple medal opportunities.
+
 •	These athletes became global icons and significantly influenced their sports’ popularity.
+
  Top Sports by Medal Count
+ 
 This section focused on identifying sports with the highest number of medal events.
+
 Observation:
+
 •	Athletics and Swimming rank at the top — these are core Olympic sports with multiple events.
+
 •	Gymnastics, Rowing, and Wrestling also contribute significantly to medal tallies.
+
 •	Growth in sports diversity is evident in later years, with newer disciplines being introduced.
+
  Visualizations
+ 
 Several charts were used to represent data visually:
+
 1.	Top 10 Countries by Total Medals — Bar chart showing country-wise dominance.
 2.	Top 10 Countries by Gold Medals — Highlighting leadership in first-place finishes.
 3.	Top 10 Sports by Medal Count — Horizontal bar chart emphasizing Athletics and Swimming as the most competitive sports.
@@ -106,11 +130,17 @@ Observation:
 Visuals clearly demonstrate consistent dominance by a few countries and the growing size of the Olympics.
 Gender Distribution of Medals and Events
 This section compared male and female athlete participation and medal achievements.
+
 Observation:
+
 •	Male athletes have historically won more medals, mainly due to a larger number of men’s events in early years.
+
 •	Female participation increased significantly after 1992, reflecting progress in gender equality.
+
 •	Modern Olympics show a near-equal gender split in medal distribution.
+
 •	Events such as Gymnastics, Swimming, and Athletics have strong representation from both genders.
+
 Key Insights
 •	The dataset covers 9 Olympic Games between 1976 and 2008.
 •	United States leads in both total and gold medals, followed by the Soviet Union and Germany.
@@ -123,8 +153,12 @@ Conclusion
 
 This project provided a comprehensive overview of Olympic performances from 1976 to 2008.
 It revealed how nations, athletes, and sports have evolved, showcasing:
+
 •	The dominance of powerhouse countries
+
 •	The rise of new nations and athletes
+
 •	The expanding inclusion of women and sports disciplines
+
 The analysis demonstrates the power of data visualization in uncovering meaningful patterns and historical trends in global sporting events.
 
