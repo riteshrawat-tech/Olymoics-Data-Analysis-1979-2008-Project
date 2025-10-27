@@ -3,14 +3,20 @@ Objective
 
 The purpose of this project is to perform an exploratory data analysis (EDA) on the Summer Olympic Games (1976–2008) dataset.
 The goal is to understand patterns in:
+
 •	Country-wise and athlete-wise medal distribution
+
 •	Growth and participation trends over time
+
 •	Gender representation in sports
+
 •	Dominant sports and nations across Olympic editions
 This analysis helps in understanding how the Olympics have evolved over time and which countries and athletes have performed consistently at the highest level.
 Data Loading and Overview
+
 The dataset contains records of Olympic medal winners from 1976 to 2008.
 Each record includes details such as:
+
 •	Year and City where the Olympics were held
 •	Sport and Discipline of the event
 •	Athlete name, Country, and Gender
