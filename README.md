@@ -10,11 +10,10 @@ The goal is to understand patterns in:
 
 •	Gender representation in sports
 
-•	Dominant sports and nations across Olympic editions
-This analysis helps in understanding how the Olympics have evolved over time and which countries and athletes have performed consistently at the highest level.
-Data Loading and Overview
+•	Dominant sports and nations across Olympic editions.
 
-The dataset contains records of Olympic medal winners from 1976 to 2008.
+This analysis helps in understanding how the Olympics have evolved over time and which countries and athletes have performed consistently at the highest level.
+Data Loading and Overview.The dataset contains records of Olympic medal winners from 1976 to 2008.
 Each record includes details such as:
 
 •	Year and City where the Olympics were held
@@ -26,7 +25,8 @@ Each record includes details such as:
 •	Event name and Medal type (Gold, Silver, Bronze)
 
 Initial exploration confirmed that the data is clean, structured, and complete, with minimal missing values.
- Data Exploration
+
+Data Exploration
 A basic data inspection was performed to understand:
 
 •	Total number of rows and columns
@@ -35,11 +35,12 @@ A basic data inspection was performed to understand:
 
 •	Missing or null values
 
-Observation:
-The dataset is well-organized, with no major missing data.
+# Observation:
 
-It provides comprehensive information about all medal winners for nine consecutive Summer Olympics between 1976 and 2008.
- Basic Dataset Details
+The dataset is well-organized, with no major missing data.It provides comprehensive information about all medal winners for nine consecutive Summer Olympics between 1976 and 2008.
+
+# Basic Dataset Details
+
 Key characteristics of the dataset were determined:
 
 •	Years Covered: 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008
@@ -48,12 +49,16 @@ Key characteristics of the dataset were determined:
 
 •	Number of Participating Countries: 138
 
-Observation:
+# Observation:
 
 Participation and number of sports increased steadily over the years, showing global growth and diversification of the Olympics.
- Total Medals by Country
+
+Total Medals by Country
+
 The total medal counts for each country were calculated.
+
 The Top 10 countries dominated most events and include:
+
 1.	United States
 2.	Soviet Union
 3.	Germany
@@ -65,24 +70,25 @@ The Top 10 countries dominated most events and include:
 9.	Canada
 10.	Japan
     
-Observation:
+# Observation:
 
 The United States consistently leads the medal table, followed closely by the Soviet Union and Germany.
 These countries maintained strong sports programs and large contingents of athletes.
 Gold Medals by Country
 A separate analysis for Gold Medals identified the countries that secured the highest number of top finishes.
-Observation:
+
+# Observation:
 •	The United States again leads with the most gold medals.
 
 •	China shows a rapid rise in gold medals, particularly after 2000.
 
 •	Countries like Australia and Great Britain also performed well in later years.
 
- Medals Over the Years
+# Medals Over the Years
  
 A year-wise analysis of total medals revealed the overall trend of Olympic growth.
 
-Observation:
+# Observation:
 
 •	The number of medals awarded generally increased with each Olympic year.
 
@@ -92,11 +98,11 @@ Observation:
 
 The trend graph shows continuous expansion of the Olympic Games, representing a global increase in sports participation and inclusivity.
 
- Top Athletes by Medals
+Top Athletes by Medals
  
 Individual athletes were ranked based on their total medal counts.
 
-Observation:
+# Observation:
 
 •	Michael Phelps (USA, Swimming) holds the record for the most medals, highlighting his dominance.
 
@@ -104,11 +110,11 @@ Observation:
 
 •	These athletes became global icons and significantly influenced their sports’ popularity.
 
- Top Sports by Medal Count
+Top Sports by Medal Count
  
 This section focused on identifying sports with the highest number of medal events.
 
-Observation:
+# Observation:
 
 •	Athletics and Swimming rank at the top — these are core Olympic sports with multiple events.
 
@@ -116,7 +122,7 @@ Observation:
 
 •	Growth in sports diversity is evident in later years, with newer disciplines being introduced.
 
- Visualizations
+#  Visualizations
  
 Several charts were used to represent data visually:
 
@@ -125,13 +131,13 @@ Several charts were used to represent data visually:
 3.	Top 10 Sports by Medal Count — Horizontal bar chart emphasizing Athletics and Swimming as the most competitive sports.
 4.	Medals Over the Years — Line chart showing the steady increase in total medals from 1976–2008.
    
-Observation:
+# Observation:
 
 Visuals clearly demonstrate consistent dominance by a few countries and the growing size of the Olympics.
 Gender Distribution of Medals and Events
 This section compared male and female athlete participation and medal achievements.
 
-Observation:
+# Observation:
 
 •	Male athletes have historically won more medals, mainly due to a larger number of men’s events in early years.
 
@@ -141,15 +147,21 @@ Observation:
 
 •	Events such as Gymnastics, Swimming, and Athletics have strong representation from both genders.
 
-Key Insights
+# Key Insights
+
 •	The dataset covers 9 Olympic Games between 1976 and 2008.
+
 •	United States leads in both total and gold medals, followed by the Soviet Union and Germany.
+
 •	Athletics and Swimming are the most medal-rich sports.
+
 •	Michael Phelps emerged as the most decorated athlete.
+
 •	Female participation shows continuous improvement, especially after the 1990s.
+
 •	There is a clear upward trend in total events and medal counts, reflecting the Olympics’ growing global reach.
 
-Conclusion
+# Conclusion
 
 This project provided a comprehensive overview of Olympic performances from 1976 to 2008.
 It revealed how nations, athletes, and sports have evolved, showcasing:
