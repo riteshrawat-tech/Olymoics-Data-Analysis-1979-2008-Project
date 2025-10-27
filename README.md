@@ -50,7 +50,9 @@ The Top 10 countries dominated most events and include:
 8.	Italy
 9.	Canada
 10.	Japan
+    
 Observation:
+
 The United States consistently leads the medal table, followed closely by the Soviet Union and Germany.
 These countries maintained strong sports programs and large contingents of athletes.
 Gold Medals by Country
