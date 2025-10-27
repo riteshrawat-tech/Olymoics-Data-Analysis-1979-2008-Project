@@ -18,24 +18,38 @@ The dataset contains records of Olympic medal winners from 1976 to 2008.
 Each record includes details such as:
 
 •	Year and City where the Olympics were held
+
 •	Sport and Discipline of the event
+
 •	Athlete name, Country, and Gender
+
 •	Event name and Medal type (Gold, Silver, Bronze)
+
 Initial exploration confirmed that the data is clean, structured, and complete, with minimal missing values.
  Data Exploration
 A basic data inspection was performed to understand:
+
 •	Total number of rows and columns
+
 •	Data types of each variable (e.g., numeric, categorical)
+
 •	Missing or null values
+
 Observation:
 The dataset is well-organized, with no major missing data.
+
 It provides comprehensive information about all medal winners for nine consecutive Summer Olympics between 1976 and 2008.
  Basic Dataset Details
 Key characteristics of the dataset were determined:
+
 •	Years Covered: 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008
+
 •	Number of Unique Sports: 34
+
 •	Number of Participating Countries: 138
+
 Observation:
+
 Participation and number of sports increased steadily over the years, showing global growth and diversification of the Olympics.
  Total Medals by Country
 The total medal counts for each country were calculated.
@@ -104,7 +118,9 @@ Key Insights
 •	Michael Phelps emerged as the most decorated athlete.
 •	Female participation shows continuous improvement, especially after the 1990s.
 •	There is a clear upward trend in total events and medal counts, reflecting the Olympics’ growing global reach.
+
 Conclusion
+
 This project provided a comprehensive overview of Olympic performances from 1976 to 2008.
 It revealed how nations, athletes, and sports have evolved, showcasing:
 •	The dominance of powerhouse countries
